@@ -1,0 +1,11 @@
+.titles{
+  border-bottom: 1px solid black;
+}
+.info-header{
+  border-right: 1px solid black;
+}
+img{
+  width: 25%;
+  height: auto;
+
+}
